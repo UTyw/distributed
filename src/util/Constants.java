@@ -18,11 +18,13 @@ public class Constants {
   public static final String COMMIT   = "commit";
   public static final String PRECOMMIT   = "precommit";
   
-
   public static final String SUCCESS  = "Success";
 
   public static final String READY    = "ready";
   public static final String REGISTER = "register";
+  
+  //YW: message to notify node it is elected
+  public static final String UR_ELECTED = "ur_elected";
 
   
   // this is used for the termination protocol
